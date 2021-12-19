@@ -16,4 +16,3 @@ https://colab.research.google.com/drive/1N2RcIgIrHxKuc3S0yDqf4x6sE12uFUXj#scroll
 
 **Количество генов, аннотированных через поиск по SwissProt: 52
 
-**Количество генов, оставшихся без аннотаций: 
