@@ -6,7 +6,7 @@ https://colab.research.google.com/drive/1sBdYE_eHzbJDoooH7wM1ObM6_Zs4geHg#scroll
 
 Ссылка на Google-Collab (создание аннотированного генома):
 
-
+https://colab.research.google.com/drive/1N2RcIgIrHxKuc3S0yDqf4x6sE12uFUXj#scrollTo=_6HirCKRTXq5
 
 Statistics:
 
